@@ -12,14 +12,14 @@ Files:
 Quick Guide:
 -----------
 ```
-0. $ sudo mknod -m a+r+w /dev/apate c 78 1
-1. $ make
-2. $ sudo insmod apate.ko
-3. $ cat /dev/apate
+0.   $ sudo mknod -m a+r+w /dev/apate c 78 1
+1.   $ make
+2.   $ sudo insmod apate.ko
+3.1. $ cat /dev/apate
 OR
-4. $ gcc deity.c -o deity
-5. $ ./deity
-6. $ sudo rmmod apate.ko
+3.2  $ gcc deity.c -o deity
+3.3  $ ./deity
+4.   $ sudo rmmod apate.ko
 ```
 
 Howto:
