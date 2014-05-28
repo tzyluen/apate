@@ -1,6 +1,6 @@
 Apate
 =====
-A trival linux module keylogger for educational purposes.
+A trivial linux module keylogger for educational purposes.
 
 Files:
 -----

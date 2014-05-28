@@ -1,5 +1,5 @@
 /**
- * A trival program to read the captured keystrokes from linux device
+ * A trivial program to read the captured keystrokes from linux device
  * Copyright (C) 2014 Ng Tzy Luen. All Rights Reserved.
  *
  * Tested under GNU C gcc 4.7.2, linux kernel v3.14.0
